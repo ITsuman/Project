@@ -1,0 +1,27 @@
+
+
+
+{
+    "item" : [
+        {
+            "colection" : "Study Table",
+            "color": "white",
+            "price": "50",
+            "img": "./images/table3.jpg"
+        },
+        {
+            "colection" : "Dining Table",
+            "color": "black",
+            "price": "70",
+            "img": "./images/table.jpg"
+        },
+        {
+            "colection" : "Office Chair",
+            "color": "white",
+            "price": "100",
+            "img": "./images/chair.jpg"
+        }
+    ]
+    
+  
+}

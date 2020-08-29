@@ -1,0 +1,42 @@
+{
+    "item" : [
+        {
+            "colection" : "Matress",
+            "color": "white",
+            "price": "50",
+            "img": "./images/matress.jpg"
+        },
+        {
+            "colection" : "Bedsheet",
+            "color": "black",
+            "price": "300",
+            "img": "./images/bed.jpg"
+        },
+        {
+            "colection" : "Cupboard",
+            "color": "red",
+            "price": "200",
+            "img": "./images/cupboard.png"
+        },
+        {
+            "colection" : "Matress",
+            "color": "white",
+            "price": "50",
+            "img": "./images/matress.jpg"
+        },
+        {
+            "colection" : "Bedsheet",
+            "color": "black",
+            "price": "300",
+            "img": "./images/bed.jpg"
+        },
+        {
+            "colection" : "Cupboard",
+            "color": "red",
+            "price": "200",
+            "img": "./images/cupboard.png"
+        }
+    ]
+    
+  
+}
